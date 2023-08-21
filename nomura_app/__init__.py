@@ -1,0 +1,1 @@
+default_app_config= 'nomura_app.apps.Nomura_appConfig'
